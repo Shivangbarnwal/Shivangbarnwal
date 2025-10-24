@@ -1,19 +1,8 @@
 <!-- 🌟 GITHUB PROFILE README -->
 <h1 align="center">Hi 👋, I'm Shivang Barnwal</h1>
-<h3 align="center">🚀 Full Stack Developer | AI Enthusiast | Innovator</h3>
+<h3 align="center">🚀 I'm a passionate Web Developer!</h3>
 
 ---
-
-### 👨‍💻 About Me  
-💡 Building AI-driven web apps that make tech smarter and accessible.  
-🎯 Currently working on: an AI-based Interview Prep Platform & Multilingual Voice Assistant.  
-🌱 Learning: FastAPI · OpenAI API · Cloud Deployment · Scalable Systems.  
-💬 Ask me about **React, Node.js, Python, AI, and Databases**.  
-📫 Connect on **[LinkedIn](https://www.linkedin.com/in/shivang-barnwal/)**  
-⚡ Fun fact: My code works perfectly... until someone watches 😅  
-
----
-
 ## 🧠 Languages and Tools  
 
 <div align="center">
@@ -48,12 +37,11 @@
 
 ---
 
-## 🧩 Tech Stack Breakdown (Language Usage %)
+## 🧩 Languages Used
 
 <div align="center">
 
 ![Languages graph](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShivangBarnwal&theme=radical)
-![Commits graph](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShivangBarnwal&theme=radical&utcOffset=5.5)
 
 </div>
 
@@ -64,25 +52,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/shivang-barnwal/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white&style=for-the-badge)](https://github.com/ShivangBarnwal)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
 
 </div>
 
 ---
-
-## ✨ Dynamic Fun Touch  
-
-> 🪄 *A new quote every time you visit!*
-
-<div align="center">
-
-![Quote](https://readme-quote.vercel.app/api?theme=radical&border=true&borderColor=FF007F)
-
-</div>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
