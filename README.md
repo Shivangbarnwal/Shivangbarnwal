@@ -36,7 +36,6 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/shivangbarnwal/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:shivangb10074@gmail.com)
 
 
 </div>
