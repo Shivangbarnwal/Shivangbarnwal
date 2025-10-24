@@ -3,7 +3,7 @@
 <h3 align="center">🚀 I'm a passionate Web Developer!</h3>
 
 ---
-## 🧠 Languages and Tools  
+## 🧩 Languages and Tools  
 
 <div align="center">
   
@@ -23,10 +23,6 @@
 
 </div>
 
----
-
-## 🧩 Languages Used
-
 <div align="center">
 
 ![Languages graph](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShivangBarnwal&theme=radical)
@@ -39,8 +35,16 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/shivang-barnwal/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/shivangbarnwal/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:shivangb10074@gmail.com)
 
 </div>
 
+
 ---
+
+<div align="center">
+
+![GitHub Snake Animation](https://github.com/Shivangbarnwal/Shivangbarnwal/blob/output/github-contribution-grid-snake.svg)
+
+</div>
