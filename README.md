@@ -3,7 +3,6 @@
 <h3 align="center">🚀 I'm a passionate Web Developer!</h3>
 
 ---
-![Profile Views](https://komarev.com/ghpvc/?username=Shivangbarnwal&color=blue)
 
 ## 🧩 Languages and Tools  
 
