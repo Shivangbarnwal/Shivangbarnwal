@@ -27,6 +27,7 @@
 <div align="center">
 
 ![Languages graph](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShivangBarnwal&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivangbarnwal&theme=tokyonight&count_private=true)
 
 </div>
 
