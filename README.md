@@ -45,6 +45,10 @@
 
 <div align="center">
 
-![GitHub Snake Animation](https://github.com/Shivangbarnwal/Shivangbarnwal/blob/output/github-contribution-grid-snake.svg)
+## 📊 GitHub Contributions
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-green.svg" width="900"/>
+</p>
 
 </div>
