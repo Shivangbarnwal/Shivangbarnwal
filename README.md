@@ -1,6 +1,5 @@
 <!-- 🌟 GITHUB PROFILE README -->
 <h1 align="center">Hi 👋, I'm Shivang Barnwal</h1>
-<h3 align="center">🚀 I'm a passionate Web Developer!</h3>
 
 ---
 
