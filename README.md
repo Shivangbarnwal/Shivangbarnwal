@@ -1,6 +1,11 @@
 <!-- 🌟 GITHUB PROFILE README -->
 <h1 align="center">Hi 👋, I'm Shivang Barnwal</h1>
 
+- 👷 Currently pursuing B.Tech in Information Technology (2023–2027) at National Institute of Technology Raipur
+- 🔭 Schooled from PCM with Computer Science stream from DPS Bhilai, CBSE Board - 92.2%
+- 🌱 Currently learning Frontend/Backend Development
+- 📫 How to reach me: shivangb10074@gmail.com
+  
 ### Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivangbarnwal/)
