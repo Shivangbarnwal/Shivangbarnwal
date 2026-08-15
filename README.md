@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Shivang Barnwal</h1>
 
 ---
-![Profile Views](https://komarev.com/ghpvc/?username=Shivangbarnwal)
 ## 🧩 Languages and Tools  
 
 <div align="center">
